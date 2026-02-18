@@ -34,7 +34,7 @@ Bu repo, **benim kendi inisiyatifimle** seçtiğim bir hipotezi (rekombinasyon p
 - `notebooks/`
   - Deney notebook’u (varsa)
 
-## Hızlı okuma: şu ana kadar hangi **ön bulgular / destekleyici sinyaller** var?
+## Şu ana kadar hangi **ön bulgular / destekleyici sinyaller** var?
 - **WIN1 ve WIN2 ağaçlarının topolojisi aynı değil** → breakpoint çevresinde evrimsel sinyal ayrışması var. Bu durum **rekombinasyonla uyumlu olabilir**, ama tek açıklama değildir (hizalama kalitesi, hız heterojenliği/konverjans vb. de etkileyebilir).
 - **AU/SH testi (IQ-TREE)**: W1 verisi altında W2 topolojisi çok güçlü biçimde dışlanıyor (ör. p-AU ≪ 0.05). Bu, “iki bölge aynı evrimsel tarihi taşımıyor olabilir” iddiasını **istatistiksel olarak destekler**.
 - **GARD**: hizalamada 1 adet breakpoint için destek rapor ediyor (JSON’da `breakpointData`). Bu da “rekombinasyon / template-switching” hipotezini **mekanistik olarak güçlendiren** bir bulgu.
@@ -42,7 +42,7 @@ Bu repo, **benim kendi inisiyatifimle** seçtiğim bir hipotezi (rekombinasyon p
 
 > Not: Bu aşama **nihai kanıt** değil; “xeno/donör izi” için sistematik BLAST/HMMER taraması + negatif kontroller + hizalama trimming + ek filogenetik testler gerekir.
 
-## Reprodüksiyon (özet)
+## Özet
 1. **RDP5**: hizalamayı aç → rekombinasyon event → breakpoint bölgesi → pencereleri dışa aktar
 2. **IQ-TREE**: her pencere için ML ağaç üret
 3. **iTOL**: `WIN1.treefile` ve `WIN2.treefile` yükle → rekombinant aday(lar)ı renklendir → topoloji farkını görselleştir
