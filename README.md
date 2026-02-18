@@ -1,6 +1,6 @@
 # FMDV recombinant-window phylogeny + selection scans (RDP5 → IQ-TREE → iTOL → GARD → BLAST)
 
-Bu repo, **benim kendi inisiyatifimle** seçtiğim bir hipotezi (rekombinasyon pencereleri arasında topoloji farkı var mı? / olası non-kanonik ORF sinyali var mı?) test etmek için yaptığım analiz hattının derli toplu çıktısıdır.
+Bu repo, **benim kendi inisiyatifimle** seçtiğim bir hipotezi AI yardımı ile (rekombinasyon pencereleri arasında topoloji farkı var mı? / olası non-kanonik ORF sinyali var mı?) test etmek için yaptığım analiz hattının derli toplu çıktısıdır.
 
 > Not: Buradaki dosyalar “ham veri arşivi” değil; tekrarlanabilirlik için **gerekli minimum** girdi/çıktılardır.
 
