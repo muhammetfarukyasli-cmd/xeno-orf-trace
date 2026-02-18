@@ -1,0 +1,31 @@
+Table key:
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.
+
+,,,Breakpoint Positions
+,,In Alignment, ,In Recombinant Sequence, ,Relative to PQ768022.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5054-6275 motif:5654-5675,,, , , , , , Detection Methods
+Recombination Event Number, Number In .RDP File, Begin, End,Begin, End,Begin, End, Recombinant Sequence(s), Minor Parental Sequence(s), Major Parental Sequence(s), RDP, GENECONV, Bootscan, Maxchi, Chimaera, SiSscan,PhylPro, LARD, 3Seq
+ 1 ,24, 1*, 265, 1*, 265, 1*, 265,^PQ768009.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5091-6312 motif:5691-5712,PQ768003.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5089-6310 motif:5689-5710,PQ768016.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5091-6312 motif:5691-5712,NS,NS,NS, 2.61998667987001E-02, 1.48763419152773E-02, 7.18844760649131E-15,NS,NS, 1.33469549586007E-03,
+ 1,,,,,,,,,,PQ768015.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5092-6313 motif:5692-5713
+ 1,,,,,,,,,,PQ768012.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5092-6313 motif:5692-5713
+
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely either overprinted by a subsequent 
+               recombination event or off the edges of the analysed sequence fragments).
+$            = This might not be breakpoint - it is likey the edge of a genome segment (possibly exchanged during reassortment)
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using the particular method in question.

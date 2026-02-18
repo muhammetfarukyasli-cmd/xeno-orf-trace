@@ -1,0 +1,4 @@
+Event#,Sequence,Designation, ConsensusConsensus,Parsimony O,Conflict,SubPhPr,TreeSubDist,OuCheck,TreeSubPhPr,TreePhPr,PhPr,TrpScore,dMax(VisRD),DistRank,O:E,SubDist,Parsimony I,SetDistT,SetDistP,O:E Dist,
+ 24,PQ768009.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5091-6312 motif:5691-5712,Recombinant, 15.0483997464224, 20, 10, 10, 10, 10, 0, 0, 8, 8, 7.78159054820576, 0, 2, 2, 20, 2.5, 5, 0,
+ 24,PQ768016.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5091-6312 motif:5691-5712,MajorParent, 9.50951164091357, 20, 10, 0, 0, 0, 4, 14, 0, 0, 6.44613618936735, 0, 4, 1, 10, 5, 5, 20,
+ 24,PQ768003.1|W1|RK+W|+|F2 Foot-and-mouth disease virus A CDS(polyprotein) W1:5089-6310 motif:5689-5710,MinorParent, 5.44208861266406, 0, 0, 5, 5, 0, 8, 18, 4, 4, 5.77227326242689, 0, 0, 0, 0, 0, 0, 15,
